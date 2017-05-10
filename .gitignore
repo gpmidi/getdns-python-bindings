@@ -12,3 +12,5 @@ MANIFEST
 .pypirc
 \#*
 etc/
+/.idea/
+/getdns-python-bindings.iml
